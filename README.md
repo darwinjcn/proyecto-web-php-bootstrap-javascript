@@ -4,36 +4,6 @@ Aplicación web full-stack desarrollada con **PHP**, **Bootstrap 5** y **JavaScr
 
 ---
 
-## 📸 Vista previa
-
-### 📝 Pantalla principal — Registro de Usuario
-![Pantalla Principal](img/pantalla-principal.png)
-
-### 🔐 Inicio de Sesión
-![Inicio de Sesión](img/inicio-sesion.png)
-
-### 👤 Registro de Usuario (Formulario con 5+ campos validados con JS)
-![Registro de Usuario](img/registro-usuario.png)
-
-### 📦 Panel de Productos — CRUD completo
-![Registro de Producto](img/registro-producto.png)
-
----
-
-## ✨ Características principales
-
-| Característica | Descripción |
-|----------------|-------------|
-| 🔐 **Autenticación** | Registro de usuarios e inicio de sesión con manejo de sesiones PHP |
-| 📝 **Validaciones en tiempo real** | Formulario de registro con 5+ campos validados mediante JavaScript |
-| 📱 **Diseño responsive** | Interfaz adaptable a cualquier dispositivo gracias a Bootstrap 5 |
-| 📦 **CRUD de productos** | Crear, editar, eliminar y visualizar productos con persistencia en JSON |
-| 💾 **Persistencia sin base de datos** | Los productos se almacenan en un archivo JSON local |
-| 🧩 **Componentes reutilizables** | Footer modular con `include` de PHP |
-| 🎨 **Diseño moderno** | Glassmorphism, gradientes animados y tipografía Inter |
-
----
-
 ## 🛠️ Stack tecnológico
 
 <p align="left">
@@ -65,6 +35,36 @@ Aplicación web full-stack desarrollada con **PHP**, **Bootstrap 5** y **JavaScr
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
+
+---
+
+## ✨ Características principales
+
+| Característica | Descripción |
+|----------------|-------------|
+| 🔐 **Autenticación** | Registro de usuarios e inicio de sesión con manejo de sesiones PHP |
+| 📝 **Validaciones en tiempo real** | Formulario de registro con 5+ campos validados mediante JavaScript |
+| 📱 **Diseño responsive** | Interfaz adaptable a cualquier dispositivo gracias a Bootstrap 5 |
+| 📦 **CRUD de productos** | Crear, editar, eliminar y visualizar productos con persistencia en JSON |
+| 💾 **Persistencia sin base de datos** | Los productos se almacenan en un archivo JSON local |
+| 🧩 **Componentes reutilizables** | Footer modular con `include` de PHP |
+| 🎨 **Diseño moderno** | Glassmorphism, gradientes animados y tipografía Inter |
+
+---
+
+## 📸 Vista previa
+
+### 📝 Pantalla principal — Registro de Usuario
+![Pantalla Principal](img/pantalla-principal.png)
+
+### 🔐 Inicio de Sesión
+![Inicio de Sesión](img/inicio-sesion.png)
+
+### 👤 Registro de Usuario (Formulario con 5+ campos validados con JS)
+![Registro de Usuario](img/registro-usuario.png)
+
+### 📦 Panel de Productos — CRUD completo
+![Registro de Producto](img/registro-producto.png)
 
 ---
 
