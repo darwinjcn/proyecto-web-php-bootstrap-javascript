@@ -6,7 +6,7 @@ Aplicación web full-stack desarrollada con **PHP**, **Bootstrap 5** y **JavaScr
 
 ## 🛠️ Stack tecnológico
 
-<p align="left">
+<p align="center">
   <a href="https://www.php.net/" target="_blank">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   </a>
